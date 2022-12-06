@@ -1,6 +1,6 @@
 package controllers;
 
-import Seller.*;
+import SellerPayload.*;
 import services.AuctionService;
 
 

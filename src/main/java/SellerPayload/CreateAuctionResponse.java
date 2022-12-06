@@ -1,4 +1,4 @@
-package Seller;
+package SellerPayload;
 
 public class CreateAuctionResponse {
 

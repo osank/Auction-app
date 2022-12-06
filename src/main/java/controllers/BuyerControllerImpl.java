@@ -1,7 +1,7 @@
 package controllers;
 
-import Buyer.AuctionHistoryRequest;
-import Buyer.AuctionHistoryResponse;
+import BuyerPayload.AuctionHistoryRequest;
+import BuyerPayload.AuctionHistoryResponse;
 import models.Auction;
 import services.AuctionService;
 

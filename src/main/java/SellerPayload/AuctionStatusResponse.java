@@ -1,4 +1,4 @@
-package Seller;
+package SellerPayload;
 
 import models.Auction;
 

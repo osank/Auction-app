@@ -1,8 +1,8 @@
 package services;
 
-import Buyer.AuctionHistoryRequest;
-import Buyer.AuctionHistoryResponse;
-import Seller.*;
+import BuyerPayload.AuctionHistoryRequest;
+import BuyerPayload.AuctionHistoryResponse;
+import SellerPayload.*;
 import dao.AuctionDao;
 import dao.BidDao;
 import models.Auction;

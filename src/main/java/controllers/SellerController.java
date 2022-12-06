@@ -1,9 +1,6 @@
 package controllers;
 
-import Seller.*;
-import models.Auction;
-
-import java.util.List;
+import SellerPayload.*;
 
 public interface SellerController {
 
